@@ -12,3 +12,8 @@ echo PATH="$(pwd)/pvim:$PATH" >> ~/.profile && . ~/.profile
 ```
 echo PATH="$(pwd)/pvim:$PATH" >> ~/.bash_profile && source ~/.bash_profile
 ```
+## Update Existing install
+to pull latest config files
+```
+pvim -u
+```
