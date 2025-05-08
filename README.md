@@ -1,4 +1,7 @@
 # Setup with the following commands
+## Prerequisites
+- git
+- make
 ## Setup
 ```
 git clone https://github.com/RoryNesbitt/pvim && git clone https://github.com/pziajski/neovim-config.git pvim/config
